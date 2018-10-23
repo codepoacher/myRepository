@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/test.out.dir/test.c.o  -o test.out -rdynamic src/libQsort.a 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+./src/Qsort.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/dtf/cmaketest/test.c
+Qsort.h
+-
+string.h
+-
+
