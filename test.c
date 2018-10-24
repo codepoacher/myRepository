@@ -1,9 +1,11 @@
 #include<Qsort.h>
 #include<string.h>
+
+#define BUF_SIZE 10
+
 int main()
 {
 
-     int n;
 	 int array[BUF_SIZE] = {12,85,25,16,34,23,49,95,17,61};
 	 int maxlen = BUF_SIZE;
 			    
