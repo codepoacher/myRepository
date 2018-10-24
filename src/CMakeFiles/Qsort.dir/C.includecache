@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dtf/github/myRepository/src/Qsort.c
+Qsort.h
+/home/dtf/github/myRepository/src/Qsort.h
+
+/home/dtf/github/myRepository/src/Qsort.h
+stdio.h
+-
+stdlib.h
+-
+

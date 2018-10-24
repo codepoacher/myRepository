@@ -1,2 +1,0 @@
-/home/dtf/cmaketest/src/CMakeFiles/Qsort.dir
-/home/dtf/cmaketest/CMakeFiles/test.out.dir

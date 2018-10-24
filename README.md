@@ -1,3 +1,6 @@
 # myRepository
-gittest
-cmaketest
+this is a cmake test
+
+make 
+
+./test.out
